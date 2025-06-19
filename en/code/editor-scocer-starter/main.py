@@ -5,4 +5,4 @@ TITLE = "Soccer"
 import pgzrun
 import soccer
 
-pgzrun.go()
+pgzrun.go()  # call to run
