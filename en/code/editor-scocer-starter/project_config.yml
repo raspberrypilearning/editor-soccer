@@ -1,0 +1,4 @@
+name: "Soccer"
+identifier: "editor-soccer-starter"
+type: 'python'
+build: true
